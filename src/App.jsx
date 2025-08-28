@@ -1,18 +1,3 @@
-// import React from 'react'
-// import Weather from './components/Weather'
-
-// function App() {
-//   return (
-//     <>
-//       <div>
-//         <Weather temperature={16}/>
-//       </div>
-//     </>
-//   )
-// }
-
-// export default App
-
 
 import React from "react";
 import DataGenerator from "./components/DataGenerator";
